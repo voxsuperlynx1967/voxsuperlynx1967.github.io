@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/backgroundfortop.png");
 			}
 
 			#main > section.two {
@@ -2588,7 +2588,8 @@ input, select, textarea {
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
-				font-weight: 300;
+                font-weight: 300;
+
 			}
 
 			.container {
