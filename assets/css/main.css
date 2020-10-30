@@ -2248,7 +2248,9 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: linear-gradient(to top right, #00008B, #0000CD, blue, #0d98ba, #90EE90, green);
+                /* background-image: linear-gradient(to top right, #00008B, #0000CD, blue, #0d98ba, #90EE90, green); */
+                background-image: url(https://images.hdqwalls.com/wallpapers/sea-shore-waves-at-night-time-4k-yr.jpg);
+                background-position: center top;
 			}
 
 			#main > section.two {
